@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "LSMODELS"
+	"author_name" "SNAKESVX and Nuclear Biohazzard [NN]"
+	"info" ""
+}
