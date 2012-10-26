@@ -1,0 +1,843 @@
+"TableToKeyValues"
+{
+	"parentid"		"0"
+	"icon"		"icon16/user_orange.png"
+	"id"		"3"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Humans + Resistance"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/Barney.mdl"
+			"tall"		"128"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/breen.mdl"
+			"tall"		"128"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/Eli.mdl"
+			"tall"		"128"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/gman_high.mdl"
+			"tall"		"128"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/Kleiner.mdl"
+			"tall"		"128"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/monk.mdl"
+			"tall"		"128"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/mossman.mdl"
+			"tall"		"128"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/odessa.mdl"
+			"tall"		"128"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/alyx.mdl"
+			"tall"		"128"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/vortigaunt.mdl"
+			"tall"		"128"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/dog.mdl"
+			"tall"		"128"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_01.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_02.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_03.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_04.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_06.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Female_07.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Male_01.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_02.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_03.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Male_04.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Male_05.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_06.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_07.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_08.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/male_09.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_01.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_02.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_03.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_04.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_06.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Female_07.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Male_01.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_02.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_03.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Male_04.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/Male_05.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_06.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_07.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_08.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group02/male_09.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_01.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_02.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_03.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_04.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_06.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Female_07.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Male_01.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_02.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_03.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Male_04.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/Male_05.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_06.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_07.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_08.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03/male_09.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_01.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_02.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_03.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_04.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_06.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Female_07.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Male_01.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_02.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_03.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Male_04.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/Male_05.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_06.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_07.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_08.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models\Humans/Group03m/male_09.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/Humans/Group01/Male_Cheaple.mdl"
+		}
+		"74"
+		{
+			"type"		"header"
+			"text"		"NPC's"
+		}
+		"75"
+		{
+			"material"		"entities/npc_barney.png"
+			"type"		"npc"
+			"nicename"		"npc_barney"
+			"spawnname"		"npc_barney"
+			"weapon"		"weapon_pistol"
+		}
+		"76"
+		{
+			"material"		"entities/npc_breen.png"
+			"type"		"npc"
+			"nicename"		"npc_breen"
+			"spawnname"		"npc_breen"
+		}
+		"77"
+		{
+			"material"		"entities/npc_eli.png"
+			"type"		"npc"
+			"nicename"		"npc_eli"
+			"spawnname"		"npc_eli"
+		}
+		"78"
+		{
+			"material"		"entities/npc_gman.png"
+			"type"		"npc"
+			"nicename"		"npc_gman"
+			"spawnname"		"npc_gman"
+			"weapon"		"weapon_pistol"
+		}
+		"79"
+		{
+			"material"		"entities/npc_kleiner.png"
+			"type"		"npc"
+			"nicename"		"npc_kleiner"
+			"spawnname"		"npc_kleiner"
+		}
+		"80"
+		{
+			"material"		"entities/npc_monk.png"
+			"type"		"npc"
+			"nicename"		"npc_monk"
+			"spawnname"		"npc_monk"
+			"weapon"		"weapon_annabelle"
+		}
+		"81"
+		{
+			"material"		"entities/npc_mossman.png"
+			"type"		"npc"
+			"nicename"		"npc_mossman"
+			"spawnname"		"npc_mossman"
+		}
+		"82"
+		{
+			"material"		"entities/npc_alyx.png"
+			"type"		"npc"
+			"nicename"		"npc_alyx"
+			"spawnname"		"npc_alyx"
+			"weapon"		"weapon_alyxgun"
+		}
+		"83"
+		{
+			"material"		"entities/npc_vortigaunt.png"
+			"type"		"npc"
+			"nicename"		"npc_vortigaunt"
+			"spawnname"		"npc_vortigaunt"
+		}
+		"84"
+		{
+			"material"		"entities/npc_dog.png"
+			"type"		"npc"
+			"nicename"		"npc_dog"
+			"spawnname"		"npc_dog"
+		}
+		"85"
+		{
+			"material"		"entities/Rebel.png"
+			"type"		"npc"
+			"nicename"		"Rebel"
+			"spawnname"		"Rebel"
+			"weapon"		"weapon_pistol"
+		}
+		"86"
+		{
+			"material"		"entities/Refugee.png"
+			"type"		"npc"
+			"nicename"		"Refugee"
+			"spawnname"		"Refugee"
+			"weapon"		"weapon_pistol"
+		}
+		"87"
+		{
+			"material"		"entities/npc_citizen.png"
+			"type"		"npc"
+			"nicename"		"npc_citizen"
+			"spawnname"		"npc_citizen"
+			"weapon"		"weapon_pistol"
+		}
+		"88"
+		{
+			"material"		"entities/Medic.png"
+			"type"		"npc"
+			"nicename"		"Medic"
+			"spawnname"		"Medic"
+			"weapon"		"weapon_pistol"
+		}
+		"89"
+		{
+			"type"		"header"
+			"text"		"Combine/Baddies"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/Police.mdl"
+			"tall"		"128"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/Combine_Super_Soldier.mdl"
+			"tall"		"128"
+		}
+		"92"
+		{
+			"type"		"model"
+			"model"		"models/Roller.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/Combine_Soldier_PrisonGuard.mdl"
+			"tall"		"128"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/Combine_Soldier.mdl"
+			"tall"		"128"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/Combine_Scanner.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/Combine_Strider.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/manhack.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"98"
+		{
+			"type"		"model"
+			"model"		"models/Combine_turrets/Floor_turret.mdl"
+		}
+		"99"
+		{
+			"type"		"model"
+			"model"		"models/props_combine/combine_mine01.mdl"
+		}
+		"100"
+		{
+			"type"		"header"
+			"text"		"NPC's"
+		}
+		"101"
+		{
+			"material"		"entities/npc_combine_camera.png"
+			"type"		"npc"
+			"nicename"		"npc_combine_camera"
+			"spawnname"		"npc_combine_camera"
+		}
+		"102"
+		{
+			"material"		"entities/NPC_turret_ceiling.png"
+			"type"		"npc"
+			"nicename"		"NPC_turret_ceiling"
+			"spawnname"		"NPC_turret_ceiling"
+		}
+		"103"
+		{
+			"material"		"entities/npc_cscanner.png"
+			"type"		"npc"
+			"nicename"		"npc_cscanner"
+			"spawnname"		"npc_cscanner"
+		}
+		"104"
+		{
+			"material"		"entities/npc_clawscanner.png"
+			"type"		"npc"
+			"nicename"		"npc_clawscanner"
+			"spawnname"		"npc_clawscanner"
+		}
+		"105"
+		{
+			"material"		"entities/CombineElite.png"
+			"type"		"npc"
+			"nicename"		"CombineElite"
+			"spawnname"		"CombineElite"
+			"weapon"		"weapon_ar2"
+		}
+		"106"
+		{
+			"material"		"entities/npc_combinegunship.png"
+			"type"		"npc"
+			"nicename"		"npc_combinegunship"
+			"spawnname"		"npc_combinegunship"
+		}
+		"107"
+		{
+			"material"		"entities/npc_combine_s.png"
+			"type"		"npc"
+			"nicename"		"npc_combine_s"
+			"spawnname"		"npc_combine_s"
+			"weapon"		"weapon_smg1"
+		}
+		"108"
+		{
+			"material"		"entities/npc_combinedropship.png"
+			"type"		"npc"
+			"nicename"		"npc_combinedropship"
+			"spawnname"		"npc_combinedropship"
+		}
+		"109"
+		{
+			"material"		"entities/npc_helicopter.png"
+			"type"		"npc"
+			"nicename"		"npc_helicopter"
+			"spawnname"		"npc_helicopter"
+		}
+		"110"
+		{
+			"material"		"entities/npc_manhack.png"
+			"type"		"npc"
+			"nicename"		"npc_manhack"
+			"spawnname"		"npc_manhack"
+		}
+		"111"
+		{
+			"material"		"entities/CombinePrison.png"
+			"type"		"npc"
+			"nicename"		"CombinePrison"
+			"spawnname"		"CombinePrison"
+			"weapon"		"weapon_shotgun"
+		}
+		"112"
+		{
+			"material"		"entities/npc_rollermine.png"
+			"type"		"npc"
+			"nicename"		"npc_rollermine"
+			"spawnname"		"npc_rollermine"
+		}
+		"113"
+		{
+			"material"		"entities/npc_stalker.png"
+			"type"		"npc"
+			"nicename"		"npc_stalker"
+			"spawnname"		"npc_stalker"
+		}
+		"114"
+		{
+			"material"		"entities/npc_strider.png"
+			"type"		"npc"
+			"nicename"		"npc_strider"
+			"spawnname"		"npc_strider"
+		}
+		"115"
+		{
+			"material"		"entities/npc_turret_floor.png"
+			"type"		"npc"
+			"nicename"		"npc_turret_floor"
+			"spawnname"		"npc_turret_floor"
+		}
+		"116"
+		{
+			"material"		"entities/npc_metropolice.png"
+			"type"		"npc"
+			"nicename"		"npc_metropolice"
+			"spawnname"		"npc_metropolice"
+			"weapon"		"weapon_stunstick"
+		}
+		"117"
+		{
+			"type"		"header"
+			"text"		"Zombies + Enemy Aliens"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/AntLion.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/antlion_guard.mdl"
+		}
+		"120"
+		{
+			"type"		"model"
+			"model"		"models/headcrab.mdl"
+		}
+		"121"
+		{
+			"type"		"model"
+			"model"		"models/headcrabblack.mdl"
+		}
+		"122"
+		{
+			"type"		"model"
+			"model"		"models/headcrabclassic.mdl"
+		}
+		"123"
+		{
+			"type"		"model"
+			"model"		"models/Lamarr.mdl"
+		}
+		"124"
+		{
+			"type"		"model"
+			"model"		"models/Zombie/Classic.mdl"
+		}
+		"125"
+		{
+			"type"		"model"
+			"model"		"models/Zombie/Classic_legs.mdl"
+		}
+		"126"
+		{
+			"type"		"model"
+			"model"		"models/Zombie/Classic_torso.mdl"
+		}
+		"127"
+		{
+			"type"		"model"
+			"model"		"models/Zombie/Fast.mdl"
+		}
+		"128"
+		{
+			"type"		"model"
+			"model"		"models/Zombie/Poison.mdl"
+		}
+		"129"
+		{
+			"type"		"model"
+			"model"		"models/Advisor.mdl"
+		}
+		"130"
+		{
+			"type"		"model"
+			"model"		"models/Gibs/Fast_Zombie_Torso.mdl"
+		}
+		"131"
+		{
+			"type"		"model"
+			"model"		"models/Gibs/Fast_Zombie_Legs.mdl"
+		}
+		"132"
+		{
+			"type"		"header"
+			"text"		"NPC's"
+		}
+		"133"
+		{
+			"material"		"entities/npc_antlion.png"
+			"type"		"npc"
+			"nicename"		"npc_antlion"
+			"spawnname"		"npc_antlion"
+		}
+		"134"
+		{
+			"material"		"entities/npc_antlionguard.png"
+			"type"		"npc"
+			"nicename"		"npc_antlionguard"
+			"spawnname"		"npc_antlionguard"
+		}
+		"135"
+		{
+			"material"		"entities/npc_barnacle.png"
+			"type"		"npc"
+			"nicename"		"npc_barnacle"
+			"spawnname"		"npc_barnacle"
+		}
+		"136"
+		{
+			"material"		"entities/npc_fastzombie_torso.png"
+			"type"		"npc"
+			"nicename"		"npc_fastzombie_torso"
+			"spawnname"		"npc_fastzombie_torso"
+		}
+		"137"
+		{
+			"material"		"entities/npc_fastzombie.png"
+			"type"		"npc"
+			"nicename"		"npc_fastzombie"
+			"spawnname"		"npc_fastzombie"
+		}
+		"138"
+		{
+			"material"		"entities/npc_headcrab.png"
+			"type"		"npc"
+			"nicename"		"npc_headcrab"
+			"spawnname"		"npc_headcrab"
+		}
+		"139"
+		{
+			"material"		"entities/npc_headcrab_black.png"
+			"type"		"npc"
+			"nicename"		"npc_headcrab_black"
+			"spawnname"		"npc_headcrab_black"
+		}
+		"140"
+		{
+			"material"		"entities/npc_headcrab_fast.png"
+			"type"		"npc"
+			"nicename"		"npc_headcrab_fast"
+			"spawnname"		"npc_headcrab_fast"
+		}
+		"141"
+		{
+			"material"		"entities/npc_poisonzombie.png"
+			"type"		"npc"
+			"nicename"		"npc_poisonzombie"
+			"spawnname"		"npc_poisonzombie"
+		}
+		"142"
+		{
+			"material"		"entities/npc_zombie.png"
+			"type"		"npc"
+			"nicename"		"npc_zombie"
+			"spawnname"		"npc_zombie"
+		}
+		"143"
+		{
+			"material"		"entities/npc_zombie_torso.png"
+			"type"		"npc"
+			"nicename"		"npc_zombie_torso"
+			"spawnname"		"npc_zombie_torso"
+		}
+	}
+	"name"		"HL2 Characters"
+	"version"		"3"
+}

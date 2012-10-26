@@ -1,0 +1,346 @@
+"TableToKeyValues"
+{
+	"parentid"		"0"
+	"icon"		"icon16/star.png"
+	"id"		"12"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"model"
+			"model"		"models/naquada-reactor.mdl"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_collector.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_extractor.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_inverter.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_lreactor.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_processor.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_sreactor.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_tank_huge.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_tank_large.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/gas_tank_small.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/lprocstore.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/microreactor.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/mprocstore.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/sprocstore.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/stokomak.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/syncaidius/tokomak.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/life_support/crylaser_small.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/life_support/gen_water.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/life_support/pulsar_crystal_m1.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/life_support/rau_small.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/ls_models/cloudstrifexiii/windmill/windmill_large.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/ls_models/cloudstrifexiii/windmill/windmill_medium.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/ls_models/cloudstrifexiii/windmill/windmill_small.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/LifeSupport/Storage/cargocanister.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/LifeSupport/Generators/ramscoop.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/SmallSteamTank/smallsteamtank.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/SmallOxygenTank/smalloxygentank.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/OxygenCompressor/oxygencompressor.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/MediumSteamTank/mediumsteamtank.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/MediumOxygenTank/mediumoxygentank.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/LargeSteamTank/largesteamtank.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/LargeOxygenTank/largeoxygentank.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/LargeH2OPump/largeh2opump.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/chipstiks_ls3_models/HydroGenerator/hydrogenerator.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/water_pump/water_pump.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_c_huge.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_c_large.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_c_medium.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_c_small.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_giant.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_huge.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_large.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_medium.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/solar_generator/solar_generator_small.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_tanks/resource_tank_large.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_tanks/resource_tank_medium.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_tanks/resource_tank_small.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_tanks/resource_tank_tiny.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_cache/resource_cache_large.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_cache/resource_cache_medium.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/resource_cache/resource_cache_small.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/fusion_generator/fusion_generator_huge.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/fusion_generator/fusion_generator_large.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/fusion_generator/fusion_generator_medium.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/fusion_generator/fusion_generator_small.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_giant.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_huge.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_large.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_medium.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_mini.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/energy_cells/energy_cell_small.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/compressor/compressor.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/compressor/compressor_huge.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/compressor/compressor_large.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/canisters/canister_large.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/canisters/canister_medium.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/ce_ls3additional/canisters/canister_small.mdl"
+		}
+	}
+	"name"		"LifeSupport"
+	"version"		"3"
+}

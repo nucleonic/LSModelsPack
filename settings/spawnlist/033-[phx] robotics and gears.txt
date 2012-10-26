@@ -1,0 +1,1001 @@
+"TableToKeyValues"
+{
+	"parentid"		"0"
+	"icon"		"icon16/folder.png"
+	"id"		"6"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/a1.mdl"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/a2.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/a3.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/a4.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/b1.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/b2.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/b3.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/b4.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/c1.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/c2.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/c3.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/c4.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/d1.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/d2.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/d3.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/d4.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/e1.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/e2.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/e3.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/e4.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/f1.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/f2.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/f3.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/foot.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/g1.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/g2.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/g3.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/g4.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/h1.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/h2.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/h3.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/h4.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/i1.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/i2.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/i3.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/i4.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/j1.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/j2.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/j3.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/j4.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/k1.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/k2.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/k3.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/k4.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/l1.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/l2.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/l3.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/l4.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/m3.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/m4.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/stand.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/robotics/xfoot.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/a1.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/a2.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/a3.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/a4.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/b1.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/b2.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/b3.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/b4.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/c1.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/c2.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/c3.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/c4.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/d1.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/d2.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/d3.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/d4.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/e1.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/e2.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/e3.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/e4.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/f1.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/f2.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/f3.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/g1.mdl"
+		}
+		"77"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/g2.mdl"
+		}
+		"78"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/g3.mdl"
+		}
+		"79"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/g4.mdl"
+		}
+		"80"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/h1.mdl"
+		}
+		"81"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/h2.mdl"
+		}
+		"82"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/h3.mdl"
+		}
+		"83"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/h4.mdl"
+		}
+		"84"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/i1.mdl"
+		}
+		"85"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/i2.mdl"
+		}
+		"86"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/i3.mdl"
+		}
+		"87"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/i4.mdl"
+		}
+		"88"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/j1.mdl"
+		}
+		"89"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/j2.mdl"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/j3.mdl"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/j4.mdl"
+		}
+		"92"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/k1.mdl"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/k2.mdl"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/k3.mdl"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/k4.mdl"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/l1.mdl"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/l2.mdl"
+		}
+		"98"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/l3.mdl"
+		}
+		"99"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/l4.mdl"
+		}
+		"100"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/m3.mdl"
+		}
+		"101"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/m4.mdl"
+		}
+		"102"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/roboticslarge/xfoot.mdl"
+		}
+		"103"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/bevel12.mdl"
+		}
+		"104"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/bevel24.mdl"
+		}
+		"105"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/bevel36.mdl"
+		}
+		"106"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/bevel9.mdl"
+		}
+		"107"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/bevel90_24.mdl"
+		}
+		"108"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/rack18.mdl"
+		}
+		"109"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/rack36.mdl"
+		}
+		"110"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/rack70.mdl"
+		}
+		"111"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/rack9.mdl"
+		}
+		"112"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/spur12.mdl"
+		}
+		"113"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/spur24.mdl"
+		}
+		"114"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/spur36.mdl"
+		}
+		"115"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/gears/spur9.mdl"
+		}
+		"116"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/biggear.mdl"
+		}
+		"117"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/mech1.mdl"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/mech2.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/mech3.mdl"
+		}
+		"120"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/medgear.mdl"
+		}
+		"121"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/slider1.mdl"
+		}
+		"122"
+		{
+			"type"		"model"
+			"model"		"models/props_phx/mechanics/slider2.mdl"
+		}
+		"123"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x12.mdl"
+		}
+		"124"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x12_large.mdl"
+		}
+		"125"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x12_small.mdl"
+		}
+		"126"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x24.mdl"
+		}
+		"127"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x24_large.mdl"
+		}
+		"128"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x24_small.mdl"
+		}
+		"129"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x6.mdl"
+		}
+		"130"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x6_large.mdl"
+		}
+		"131"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear12x6_small.mdl"
+		}
+		"132"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x12.mdl"
+		}
+		"133"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x12_large.mdl"
+		}
+		"134"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x12_small.mdl"
+		}
+		"135"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x24.mdl"
+		}
+		"136"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x24_large.mdl"
+		}
+		"137"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x24_small.mdl"
+		}
+		"138"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x6.mdl"
+		}
+		"139"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x6_large.mdl"
+		}
+		"140"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear16x6_small.mdl"
+		}
+		"141"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x12.mdl"
+		}
+		"142"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x12_large.mdl"
+		}
+		"143"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x12_small.mdl"
+		}
+		"144"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x24.mdl"
+		}
+		"145"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x24_large.mdl"
+		}
+		"146"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x24_small.mdl"
+		}
+		"147"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x6.mdl"
+		}
+		"148"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x6_large.mdl"
+		}
+		"149"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears/gear24x6_small.mdl"
+		}
+		"150"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_12t1.mdl"
+		}
+		"151"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_18t1.mdl"
+		}
+		"152"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_24t1.mdl"
+		}
+		"153"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_36t1.mdl"
+		}
+		"154"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_48t1.mdl"
+		}
+		"155"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/bevel_60t1.mdl"
+		}
+		"156"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_12t1.mdl"
+		}
+		"157"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_12t2.mdl"
+		}
+		"158"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_12t3.mdl"
+		}
+		"159"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_18t1.mdl"
+		}
+		"160"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_18t2.mdl"
+		}
+		"161"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_18t3.mdl"
+		}
+		"162"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_24t1.mdl"
+		}
+		"163"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_24t2.mdl"
+		}
+		"164"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_24t3.mdl"
+		}
+		"165"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_36t1.mdl"
+		}
+		"166"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_36t2.mdl"
+		}
+		"167"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_36t3.mdl"
+		}
+		"168"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_48t1.mdl"
+		}
+		"169"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_48t2.mdl"
+		}
+		"170"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_48t3.mdl"
+		}
+		"171"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_60t1.mdl"
+		}
+		"172"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_60t2.mdl"
+		}
+		"173"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/gear_60t3.mdl"
+		}
+		"174"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_20t1.mdl"
+		}
+		"175"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_20t2.mdl"
+		}
+		"176"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_20t3.mdl"
+		}
+		"177"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_40.mdl"
+		}
+		"178"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_40t1.mdl"
+		}
+		"179"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_40t2.mdl"
+		}
+		"180"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_40t3.mdl"
+		}
+		"181"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_80t1.mdl"
+		}
+		"182"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_80t2.mdl"
+		}
+		"183"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/pinion_80t3.mdl"
+		}
+		"184"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/vert_12t1.mdl"
+		}
+		"185"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/vert_18t1.mdl"
+		}
+		"186"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/vert_24t1.mdl"
+		}
+		"187"
+		{
+			"type"		"model"
+			"model"		"models/Mechanics/gears2/vert_36t1.mdl"
+		}
+		"188"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/claw2l.mdl"
+		}
+		"189"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/clawl.mdl"
+		}
+		"190"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/claw_guide2l.mdl"
+		}
+		"191"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/claw_guide2la.mdl"
+		}
+		"192"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/robotics/claw.mdl"
+		}
+		"193"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/robotics/claw2.mdl"
+		}
+		"194"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/robotics/claw_guide.mdl"
+		}
+		"195"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/robotics/claw_guide2.mdl"
+		}
+		"196"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/robotics/claw_guide2a.mdl"
+		}
+		"197"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/claw_hub_8.mdl"
+		}
+		"198"
+		{
+			"type"		"model"
+			"model"		"models/mechanics/roboticslarge/claw_hub_8l.mdl"
+		}
+	}
+	"name"		"[PHX] Robotics and Gears"
+	"version"		"3"
+}
